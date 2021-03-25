@@ -1,0 +1,10 @@
+PCA9685.c:132:6:HAL_GPIO_WritePinH	0	static
+PCA9685.c:141:6:HAL_I2C_Master_TransmitH	12	static
+PCA9685.c:10:6:write_register	24	static
+PCA9685.c:60:6:set_all_pwm	40	static
+PCA9685.c:78:6:pca9685_pwm	48	static
+PCA9685.c:157:6:HAL_I2C_Master_ReceiveH	12	static
+PCA9685.c:21:6:read_register	32	static
+PCA9685.c:31:6:pca9685_init	40	static
+PCA9685.c:97:6:set_pwm_freq	40	static
+PCA9685.c:174:6:HAL_DelayH	0	static
